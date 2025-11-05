@@ -172,3 +172,5 @@ for pub_id in range(N_PUBLICATIONS):
 
 file.close()
 print("✅ Données générées avec succès")
+
+# Fin du fichier generate.py
