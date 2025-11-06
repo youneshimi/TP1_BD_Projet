@@ -2964,56 +2964,56 @@ VALUES ('Université de Corse Pasquale Paoli', 'Université', 1)
     VALUES ('Projet Structurant Posséder', 'Crise content revenir trace. Papier crainte nuage lieu réveiller volonté battre. Prochain premier inspirer. Gloire grâce désormais seigneur.',
     'Physique',
     '2023-12-30','2025-06-09', 148367,
-    1, 97)
+    2, 97)
     ;
 
     INSERT INTO projet(title, description, discipline, date_start, date_end, budget, laboratoire_id, responsable_id)
     VALUES ('Projet Structurant Résister', 'Peau jouer beauté certes. Si couche femme. Poche accompagner brûler chant lire. Grand casser moindre un. User queue sec troubler général tourner dans. Magnifique espérer prendre boire paysan rose.',
     'IA',
     '2023-07-20','2024-09-08', 53693,
-    1, 29)
+    2, 29)
     ;
 
     INSERT INTO projet(title, description, discipline, date_start, date_end, budget, laboratoire_id, responsable_id)
     VALUES ('Projet Structurant Avant', 'Pouvoir fonction marquer aventure. Quinze vif un parole livre. Appartement devant groupe. Noire déchirer politique désir prêt autorité tout.',
     'IA',
     '2023-11-15','2025-05-05', 191773,
-    1, 2)
+    2, 2)
     ;
 
     INSERT INTO projet(title, description, discipline, date_start, date_end, budget, laboratoire_id, responsable_id)
     VALUES ('Projet Structurant Enlever', 'Attention point nommer visage ici couvrir geste se. Sein militaire regarder atteindre avis forme défendre troisième. Bureau interroger pitié préférer soin vivre commencement.',
     'Physique',
     '2023-04-08','2024-09-21', 256024,
-    1, 22)
+    2, 22)
     ;
 
     INSERT INTO projet(title, description, discipline, date_start, date_end, budget, laboratoire_id, responsable_id)
     VALUES ('Projet Structurant Affirmer', 'Sentiment larme éviter prêt crainte contenir. Rencontrer pauvre police image ainsi partir chance. Voiture conclure heureux battre. Énergie jambe rose ou.',
     'Chimie',
     '2024-08-30','2025-12-08', 67380,
-    1, 38)
+    2, 38)
     ;
 
     INSERT INTO projet(title, description, discipline, date_start, date_end, budget, laboratoire_id, responsable_id)
     VALUES ('Projet Structurant Commencer', 'Dont abandonner suivant devant françois préférer. Beau ciel charge dehors ce. Joindre fauteuil deviner rapide tu. Effort en prendre monde prix.',
     'Biologie',
     '2023-08-05','2024-05-21', 261886,
-    1, 37)
+    2, 37)
     ;
 
     INSERT INTO projet(title, description, discipline, date_start, date_end, budget, laboratoire_id, responsable_id)
     VALUES ('Projet Structurant Mériter', 'Souvent saison hier plaine attitude vendre énorme. Près confier fuir objet sous là cours jour. Prévenir respirer aujourd''hui élever inspirer admettre bonheur.',
     'Biologie',
     '2024-05-04','2026-07-08', 277270,
-    1, 96)
+    2, 96)
     ;
 
     INSERT INTO projet(title, description, discipline, date_start, date_end, budget, laboratoire_id, responsable_id)
     VALUES ('Projet Structurant Accent', 'Capable ensemble unique reste devoir aussi. Religion fumer presser jouer jambe moins fusil. Manquer préparer quelque mal sept. Noir fermer mémoire.',
     'Physique',
     '2024-02-18','2025-10-30', 121402,
-    1, 94)
+    2, 94)
     ;
 
     INSERT INTO projet(title, description, discipline, date_start, date_end, budget, laboratoire_id, responsable_id)
