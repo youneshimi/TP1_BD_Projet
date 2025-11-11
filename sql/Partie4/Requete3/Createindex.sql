@@ -1,4 +1,4 @@
--- Requête R3 – Laboratoires sans jeux de données non conformes --
+-- Requête choisie : Version 2 (avec LEFT JOIN) --
 
 -- 1. Accélère la jointure entre chercheur et labo
 CREATE INDEX idx_chercheur_labo_id ON chercheur(labo_id);
