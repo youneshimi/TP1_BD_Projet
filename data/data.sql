@@ -1537,7 +1537,7 @@ VALUES ('Université de Corse Pasquale Paoli', 'Université', 1)
     ;
 
     INSERT INTO laboratoire(name, institution_id, adresse_id)
-    VALUES ('Labo Avenir',
+    VALUES ('LISA',
     1,
     220)
     ;
